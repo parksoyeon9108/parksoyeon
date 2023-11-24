@@ -426,6 +426,38 @@ video {
 }
 
 
+@media (max-width:1000px){
+    #home .ment{
+        width: 100%;
+        text-align: left;
+    }
+}
+
+
+@media (max-width:1000px){
+    .banner_text {
+        width: 100%;
+        text-align: left;
+    }
+}
+
+
+
+@media (max-width:600px){
+    #home .ment{
+        width: 100%;
+        text-align: left;
+    }
+}
+
+
+@media (max-width:600px){
+    .banner_text{
+        width: 100%;
+        text-align: left;
+    }
+}
+
 
 @media only screen and (min-width:1200px) {
 	
